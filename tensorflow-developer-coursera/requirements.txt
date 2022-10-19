@@ -1,3 +1,8 @@
 numpy
 tensorflow
 pandas
+###For windows NVIDIA GPU
+#tensorflow-directml
+tensorflow-gpu
+ipykernel
+matplotlib
