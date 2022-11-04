@@ -11,3 +11,5 @@ tensorflow-developer-coursera/C3/W3/assignment/data/glove.6B.100d.txt
 tensorflow-developer-coursera/C3/W3/assignment/data/training_cleaned.csv
 /venv*
 .vs
+*test
+test.ipynb
