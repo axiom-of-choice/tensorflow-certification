@@ -1,0 +1,12 @@
+numpy
+tensorflow
+pandas
+###For windows NVIDIA GPU
+#tensorflow-directml
+tensorflow-gpu
+ipykernel
+matplotlib
+gdown
+scikit-learn
+seaborn
+statsmodels
