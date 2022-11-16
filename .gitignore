@@ -12,3 +12,5 @@ tensorflow-developer-coursera/C3/W3/assignment/data/training_cleaned.csv
 /venv*
 .vs
 test.ipynb
+TFExamTest/word_embeddings/aclImdb
+TFExamTest/word_embeddings/aclImdb_v1.tar.gz
