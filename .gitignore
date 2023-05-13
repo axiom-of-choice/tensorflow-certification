@@ -14,3 +14,8 @@ tensorflow-developer-coursera/C3/W3/assignment/data/training_cleaned.csv
 test.ipynb
 TFExamTest/word_embeddings/aclImdb
 TFExamTest/word_embeddings/aclImdb_v1.tar.gz
+.idea/misc.xml
+.idea/modules.xml
+.idea/tensorflow-certification.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/vcs.xml
